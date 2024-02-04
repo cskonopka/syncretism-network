@@ -23,9 +23,15 @@ Each genesis shader is a carefully crafted memory snapshot based on the human se
 There is a total of 87 NFTs in Mimesis V1. There are two types of Mimesis NFTs:
 
 #### Genesis
+
+![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-genesis.mp4)
+
 Genesis NFTs are manually captured memories as a GLSL shader. These shaders are the genesis for algorithmically generated synthetic memories or algoshards. (note: some of these shaders are animated)
 
 #### Algoshard
+
+
+
 Algoshard NFTs are algorithmically generated synthetic memories or GLSL shaders. They are created in the likeness of the genesis GLSL shader and the likeness of the computer generating the content.
 
 ### Release Schedule
