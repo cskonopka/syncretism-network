@@ -42,62 +42,61 @@ Imagery cannot be replicated. If you don't capture it, it's gone forever.
 
 The analog video synthesizer depicts the experience, and each title is an architected synopsis of that experience. The project strives to find unfamiliar words and do its best to not duplicate words. A variety of Thesauruses are used to create uniquely phrased experiences. 
 
-### Designs
-- v001 --> (A + B) = (word + word)
-- v002 --> (A + B) = (defined phrase + defined phrase)
-- v003 --> A + (B + C) = defining the subject + (subject action + nested experience within the subject's action) 
-- v004 --> A + (B + C) + (A + C)
+| Templates    | Description                                                  |
+| ------------ | ------------------------------------------------------------ |
+| v001         | (A + B) = (word + word)            |
+| v002         | (A + B) = (defined phrase + defined phrase) |
+| v003         | A + (B + C) = defining the subject + (subject action + nested experience within the subject's action) |
+| v004         | A + (B + C) + (A + C) |
 
-#### v001
-IMAGE
+
+### v001
+![](https://github.com/cskonopka/syncretism-network/blob/main/assets/splittingCenotaph.png?raw=true)
 
 (A + B) = (word + word)
 
-##### Example v001
 splittingCenotaph =  (splitting + Cenotaph)
 
-##### Breakdown v001
+#### Breakdown v001
 - splitting (n): The action of dividing or being divided into parts.
 - cenotaph (n): A monument to someone buried elsewhere, especially one commemorating people who died in a war.
 
-##### Synopsis v001
+#### Synopsis v001
 The video depicts an abstraction representation of a war monument splitting apart.
 
 
-#### v002
-IMAGE
+### v002
+![](https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/tryingtomeetinthemiddleWhenBothPartiesAreAbsorbedByPropaganda.webp)
 
 (A + B) = (defined phrase + defined phrase)
 
-##### Example v002
 tryingtomeetinthemiddleWhenBothPartiesAreAbsorbedByPropaganda = (trying to meet in the middle) + (When Both Parties Are Absorbed By Propaganda)
 
-##### Breakdown v002
+#### Breakdown v002
 - A: Describing an action (A) that is dependent on another action or compromise
 - B: Describing a scenario where (A) is dependent on the outcome 
 
-##### Synopsis v002
+#### Synopsis v002
 It is a commentary on the impact of propaganda on individual intra-relationships psychology in modern America.
 
 
-#### v003
+### v003
 
-IMAGE
+![](https://github.com/cskonopka/syncretism-network/blob/main/assets/windstructureddrapesMovingAroundUnfoundedAndMisspokenEmotions.png?raw=true)
 
 A + (B + C) = defining the subject + (subject action + nested experience within the subject's action) 
 
-##### Example v003 
 windstructureddrapesMovingAroundUnfoundedAndMisspokenEmotions = wind structured drapes + (Moving Around Unfounded) + (And Misspoken Emotions)
 
-##### Breakdown v003
+#### Breakdown v003
 - A: Defining the subject
 - B: The subject's action 
 - C: The abstracted emotion nested within the action of the subject
 
-##### Synopsis v003
+#### Synopsis v003
 The video is describing a set of tall drapes being moved by the wind, representing their disconnection from emotion and humans. The subject looks deeper into the movement and reflecting on their own life scenario, yearning for that untethered feeling of clarity.
 
-#### v004 (WIP)
+### v004 (WIP)
 
 IMAGE
 
