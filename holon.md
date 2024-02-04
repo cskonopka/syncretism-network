@@ -1,8 +1,14 @@
 # holon
 
+## Project Legend
+
+| Projects      | Description                                                  |
+| ------------ | ------------------------------------------------------------ |
+| Mimesis      | Creating digitized banks of human memories to generate synthetic memories.            |
+
+
 ## Mimesis
 ![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis.png?raw=true)
-> Creating digitized banks of human memories to generate synthetic memories.
 
 ### Description
 Mimesis is a framework for combining memories from a person and merging them with an upcycled computer to create a new set of synthetic memories. The upcycled computer, equipped with individualistic processing capabilities, absorbs and integrates the digitalized human memories into its existing databanks. This process combines elements of memory, emotion, and creativity, envisioning a unique and abstract way to record and visually experience personal memories through the lens of GLSL shaders.
@@ -60,7 +66,7 @@ Each Mimesis NFT comes with 2 licenses:
 #### MIT License
 > "A short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source. There are many variations of this license in use." - tl;drLegal
 
-IMAGE
+![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-mit.png?raw=true)
 
 ##### Template
 > Copyright (c) 2022 the_garbage\_man
@@ -87,7 +93,7 @@ SOFTWARE.
 #### Creative Commons Attribution 4.0 International
 >"This licence lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licences offered. Recommended for maximum dissemination and use of licensed materials." - smartcopying
 
-IMAGE
+![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-cc.png?raw=true)
 
 ##### Attribution
 You must give credit to the original author of the work, including a URI or hyperlink to the work, this Public license and a copyright notice.
@@ -106,3 +112,5 @@ Liable follows the same rules as Disclaimer of warranties, providing, by default
 
 ##### Revoke
 The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+## Playback
