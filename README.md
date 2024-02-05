@@ -9,17 +9,19 @@
 
 ## Sectors
 ### videoPainting
-
-
+<h3 align="left">
+  <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp_01.png"/>
+</h3>
 
 | Projects      | Description                                                  |
 | ------------ | ------------------------------------------------------------ |
+| videoPainting    | N/A            |
 | broadcast-research    | An open-source data project for developing new insights about the creative process of analog video synthesis            |
 | SOROS      | SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS            |
 | hardwareGlitch      | N/A            |
 
 ### holon
-<h3 align="center">
+<h3 align="left">
   <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis.png"/>
 </h3>
 
@@ -28,7 +30,9 @@
 | Mimesis      | Creating digitized banks of human memories to generate synthetic memories.            |
 
 ### handLinguistics
-
+<h3 align="left">
+  <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/hl-lexemes-01.png"/>
+</h3>
 
 | Projects      | Description                                                  |
 | ------------ | ------------------------------------------------------------ |
@@ -36,7 +40,7 @@
 | airbrushedEchoes    | The practice for capturing extreme subconscious emotional trends.            |
 
 ### XT
-<h3 align="center">
+<h3 align="left">
   <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/xt-drvisit.jpg"/>
 </h3>
 
