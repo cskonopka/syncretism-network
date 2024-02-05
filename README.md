@@ -12,7 +12,7 @@
 
 | Projects      | Description                                                  | Example  |
 | ------------ | ------------------------------------------------------------ | --- |
-| videoPainting    | N/A            | <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp_01.png"/> |
+| videoPainting    | N/A            | <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-01.png"/> |
 | broadcast-research    | An open-source data project for developing new insights about the creative process of analog video synthesis            |  |
 | SOROS      | SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS            |    <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-soros.gif"/> |
 | hardwareGlitch      | N/A            |   <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-hardwareglitch.gif"/>  |
