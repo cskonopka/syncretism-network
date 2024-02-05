@@ -13,6 +13,6 @@ The basic lexical units of language for real-time thought.
 
 
 ### airbrushedEchoes
-“airbrushedEchoes” is a practice for capturing extreme subconscious emotional trends.
+The practice for capturing extreme subconscious emotional trends.
 
 #### Examples 
