@@ -31,7 +31,7 @@
 ### XT
 | Projects      | Description                                                  | Example |
 | ------------ | ------------------------------------------------------------ | --- |
-| The Medical Group                  | N/A            |   |
+| The Medical Group                  | N/A            | N/A  |
 | dr.visit                  | A commentary on the modern health care system and it's commoditization.            |   <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/xt-drvisit.jpg"/>  |
 | patientscreening          | A commentary on the modern mental system and it's commoditization.            |    <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/xt-patientscreening.jpg"/>  |
 | Formation of an Idea      | Formation of an Idea is an intimate collaboration with a computer by projecting emotions through a distilled phrase and visualizing the discussions complexity.            |    <img height="30%" width="30%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/xt-formationofanidea.webp"/>  |
