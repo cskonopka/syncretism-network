@@ -1,6 +1,6 @@
 # videoPainting
 
-![](https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp_overview.webp)
+<img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-01.png"/>
 > Psychological osmosis research using video synthesis
 
 ## Description 
@@ -17,7 +17,7 @@ videoPainting is a creative technique that combines elements of traditional visu
 | Performance | Breaking down techniques and live performance approaches |	
 ## Background
 
-![](https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp_background.webp)
+<img height="50%" width="50%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp-background.webp"/>
 
 In the ever-evolving landscape of media art, analog video stands as a testament to the transformative power of technological mediums in their most rudimentary forms. Analog video art has a unique aesthetic and texture that differs from digital processes. It allows artists to have a hands-on connection to their work. 
 
@@ -31,7 +31,7 @@ The goal of the project is to use analog video synthesis as a bridge, connecting
 
 "A video synthesizer is a device that electronically creates a video signal. A video synthesizer is able to generate a variety of visual material without camera input through the use of internal video pattern generators. It can also accept and "clean up and enhance" or "distort" live television camera imagery. The synthesizer creates a wide range of imagery through purely electronic manipulations. This imagery is visible within the output video signal when this signal is displayed. The output video signal can be viewed on a wide range of conventional video equipment, such as TV monitors, theater video projectors, computer displays, etc." - Wiki 
 
-![](https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp_yt.jpg)
+<img height="50%" width="50%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp-yt.jpg"/>
 
 ### What are videoPaintings?
 
@@ -39,7 +39,7 @@ videoPainting is a project of one-of-a-kind visual textures created using analog
 
 ## Recall Marbles (RMBs)
 
-![](https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp_rmb.webp)
+<img height="30%" width="30%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp-rmb.webp"/>
 
 Every title is a description of a recent life experience captured using an analog video synthesizer. It is called a RMB or recall marble. From the initial life experience, there is a 1-3 day window where the RMB’s are accessible. Outside the window, the probability of connecting to an RMB to access the underlying memory decreases significantly, or is not possible. The only way to RMB’s outside of the window is through live improvised performance. The downside is there is no way to know if you can to connect to an RMB and there is no way of knowing which RMB you are accessing.
 
@@ -57,9 +57,8 @@ The analog video synthesizer depicts the experience, and each title is an archit
 | v003         | A + (B + C) = defining the subject + (subject action + nested experience within the subject's action) |
 | v004         | A + (B + C) + (A + C) |
 
-
 ### v001
-![](https://github.com/cskonopka/syncretism-network/blob/main/assets/splittingCenotaph.png?raw=true)
+<img height="50%" width="50%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/splittingCenotaph.png"/>
 
 (A + B) = (word + word)
 
@@ -73,8 +72,8 @@ splittingCenotaph =  (splitting + Cenotaph)
 The video depicts an abstraction representation of a war monument splitting apart.
 
 
-### v002
-![](https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/tryingtomeetinthemiddleWhenBothPartiesAreAbsorbedByPropaganda.webp)
+### v002 
+<img height="50%" width="50%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/tryingtomeetinthemiddleWhenBothPartiesAreAbsorbedByPropaganda.webp"/>
 
 (A + B) = (defined phrase + defined phrase)
 
@@ -89,8 +88,7 @@ It is a commentary on the impact of propaganda on individual intra-relationships
 
 
 ### v003
-
-![](https://github.com/cskonopka/syncretism-network/blob/main/assets/windstructureddrapesMovingAroundUnfoundedAndMisspokenEmotions.png?raw=true)
+<img height="50%" width="50%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/windstructureddrapesMovingAroundUnfoundedAndMisspokenEmotions.png"/>
 
 A + (B + C) = defining the subject + (subject action + nested experience within the subject's action) 
 
@@ -112,7 +110,7 @@ A + (B + C) + (A + C)
 
 
 ## Archiving
-![](https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp_archiving.png)
+<img height="80%" width="80%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp-archiving.png"/>
 
 Description of the archival process of raw captures and Recall Marbles (RMBs)
 
