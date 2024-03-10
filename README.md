@@ -12,8 +12,8 @@
 
 | Projects      | Description                                                  | Example  | Article | Collection | Blockchain |
 | ------------ | ------------------------------------------------------------ | --- | --- | --- | --- |
-| [videoPainting](https://github.com/cskonopka/syncretism-network/blob/main/videoPainting.md)    | N/A            | <img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-01.png"/> | NA | NA | Avalanche |
-| [broadcast-research](https://github.com/cskonopka/broadcast-research)    | An open-source data project for developing new insights about the creative process of analog video synthesis            |  |  [CDM](https://cdm.link/2020/01/painting-with-eurorack/)  | NA | NA | 
+| [videoPainting](https://github.com/cskonopka/syncretism-network/blob/main/videoPainting.md)    | N/A            | <img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-itsAllJustLight.gif"/> | NA | NA | Avalanche |
+| [broadcast-research](https://github.com/cskonopka/broadcast-research)    | An open-source data project for developing new insights about the creative process of analog video synthesis            |  <img height="50%" width="50%" src="https://i.ibb.co/WkrxHZj/cskonopka-04.png"> |  [CDM](https://cdm.link/2020/01/painting-with-eurorack/)  | NA | NA | 
 | SOROS      | SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS SOROS            |    <img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-soros.gif"/> |  NA  |  NA  | Avalanche |
 | hardwareGlitch      | N/A            |   <img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-hardwareglitch.gif"/>  |  [Medium](https://medium.com/@gg.the.garbage.man.gg/hardwareglitch-d8a552789cc)  |  NA  | Avalanche |
 
