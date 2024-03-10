@@ -1,12 +1,3 @@
-# holon
-
-## Project Legend
-
-| Projects      | Description                                                  |
-| ------------ | ------------------------------------------------------------ |
-| Mimesis      | Creating digitized banks of human memories to generate synthetic memories.            |
-
-
 ## Mimesis
 ![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis.png?raw=true)
 
