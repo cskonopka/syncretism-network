@@ -1,11 +1,32 @@
-# handLinguistics
+# lexemes
+
+<img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/hl-lexemes-01.png"/>
+
+## Timeline
+* 2004 - Present
 
 ## Description
 
-*handLinguistics* is a language framework for visualizing internal real-time memory processes. Techniques within the framework represent individualized functions for recording real-time memory data dumps. The output is an encapsulated experience with a multi-directional viewing point. 
+## Rules
+* A small pocket journal with blank pages. It can be any notebook, but it must be portable and easily accessible on short notice.
+* A ubiquitous utensil
 
-| Projects      | Description                                                  | Example  | Article | Collection | Blockchain |
-| ------------ | ------------------------------------------------------------ | --- | --- | --- | --- |
-| lexemes             | The basic lexical units of language for real-time thought.            |    <img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/hl-lexemes-01.png"/>   | NA | NA | Avalanche |
-| airbrushedEchoes    | The timed practice for capturing extreme subconscious emotional trends.            |    <img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/hl-airbrushedechoes.png"/> | NA | NA | Avalanche |
-| rorschach tests    | Rorschach tests created for screening patients at The Medical Group.            |    <img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/hl-rorschach.webp"/> | NA | NA | Avalanche |
+## Materials used
+* Moleskine Cahier Pocket Journal
+* Pilot, G2 Premium Gel Roller Pens (1.0mm & 0.7mm)
+
+## Examples
+* A
+* B
+* C
+* D
+* E
+* F
+
+## Common Themes
+* A
+* B
+* C
+* D
+* E
+* F
