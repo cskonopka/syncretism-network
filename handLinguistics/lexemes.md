@@ -12,7 +12,10 @@
 * A ubiquitous utensil
 
 ## Materials used
-* Moleskine Cahier Pocket Journal
+* Home
+  * Any blank weighted paper I can find 
+* Travel
+  * Moleskine Cahier Pocket Journal 
 * Pilot, G2 Premium Gel Roller Pens (1.0mm & 0.7mm)
 
 ## Examples
