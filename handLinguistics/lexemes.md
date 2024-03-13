@@ -12,11 +12,16 @@
 * A ubiquitous utensil
 
 ## Materials used
+
+### Analog
 * Home
   * Any blank weighted paper I can find 
 * Travel
   * Moleskine Cahier Pocket Journal 
 * Pilot, G2 Premium Gel Roller Pens (1.0mm & 0.7mm)
+
+### Digital
+* Procreate
 
 ## Examples
 * A
@@ -26,7 +31,7 @@
 * E
 * F
 
-## Common Themes
+## Common Style Themes
 * A
 * B
 * C
