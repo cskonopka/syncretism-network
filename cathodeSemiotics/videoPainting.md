@@ -130,5 +130,11 @@ Description of the archival process of raw captures and Recall Marbles (RMBs)
 No prior intent or forethought of shape and color, patching is a fluid process where you trust yourself to fail, continuing to learn your inward momentum and harnessing it. The instrument requires a sense of egoless collaboration, allowing it to lead the visualization of the journey and the user provides guidance for visual manifestation. Navigating the real-time input can provide directions of focus, or emotions, to recharge the manifestation process. There is an increased possibility of reaching an inner zone of intuition that lives inside this waypoint. The waypoint is the clairvoyant center of the emotion and, if timed correctly, the user can directly experience the emotions of another. When this happens, the intensity of the experience can disrupt an individual if they are not ready. It is all-encompassing, only understood at the moment.
 
 ## Performance
+[<img src="https://player.vimeo.com/video/199784510?h=a80a07fc0f" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://vimeo.com/199784510) "Now in Android: 55") 
+
+
+
+
+
 <iframe src="https://player.vimeo.com/video/199784510?h=a80a07fc0f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/199784510">2017-01-13 - Moon Villain - Joe Mygan</a> from <a href="https://vimeo.com/cskonopka">cskonopka</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
