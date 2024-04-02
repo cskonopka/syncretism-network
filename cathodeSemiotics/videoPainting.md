@@ -1,20 +1,10 @@
 # videoPainting
 
 <img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-01.png"/>
-> Psychological osmosis research using video synthesis
 
 ## Description 
 videoPainting is a creative technique that combines elements of traditional visual art, like painting or drawing, with the dynamic and time-based qualities of video. Through a synthesis of visual and temporal elements, one can create abstract compositions that tap into the universal and deeply personal aspects of the human emotional experience. Each design is an encapsulated moment of experience used to terraform new planes of understanding. 
 
-## Legend
-
-| Process      | Description                                                  |
-| ------------ | ------------------------------------------------------------ |
-| Recall Marbles (RMBs)        | The analog video synthesizer depicts the experience, and each title is an architected synopsis of it known as a recall marble            |
-| Titles       | The analog video synthesizer depicts the experience, and each title is an architected synopsis of that experience |
-| Archiving     | Description of the archival process of raw captures and Recall Marbles (RMBs) |
-| Patching  | Better understanding patching workflows, their impact in the studio and how to let go |
-| Performance | Breaking down techniques and live performance approaches |	
 ## Background
 
 <img height="50%" width="50%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp-background.webp"/>
@@ -37,14 +27,23 @@ The goal of the project is to use analog video synthesis as a bridge, connecting
 
 videoPainting is a project of one-of-a-kind visual textures created using analog video synthesizers. Evolving organically, each design is an encapsulated moment of experience used to terraform new planes of understanding. Humans store the experience of time in their own unique format by generating a memory and compiling all the internal and external senses. During the archival process of creating new memories, there is a significant amount of discarded nuance. These free-floating threads of minutia hold the potential choice of mindfully engaging unaltered emotional abstractions through creating personal coincidental attachment.
 
-## Recall Marbles (RMBs)
+### What does this mean?
+Imagery cannot be replicated. If you don't capture it, it's gone forever.
+
+## Processes
+
+| Process      | Description                                                  |
+| ------------ | ------------------------------------------------------------ |
+| Analog Recall Marbles (aRMBs)        | The analog video synthesizer depicts the experience and when it is captured, it is called an a analolg recall marble            |
+| Titles       | Each title is an architected synopsis of that experience |
+| Archiving     | Description of the archival process of raw captures and Analog Recall Marbles (aRMBs) |
+| Patching & Performance  | Better understanding patching workflows & live performance analysis |	
+
+### Recall Marbles (RMBs)
 
 <img height="30%" width="30%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp-rmb.webp"/>
 
 Every title is a description of a recent life experience captured using an analog video synthesizer. It is called a RMB or recall marble. From the initial life experience, there is a 1-3 day window where the RMB’s are accessible. Outside the window, the probability of connecting to an RMB to access the underlying memory decreases significantly, or is not possible. The only way to RMB’s outside of the window is through live improvised performance. The downside is there is no way to know if you can to connect to an RMB and there is no way of knowing which RMB you are accessing.
-
-### What does this mean?
-Imagery cannot be replicated. If you don't capture it, it's gone forever.
 
 ## Titles
 
@@ -126,3 +125,10 @@ Description of the archival process of raw captures and Recall Marbles (RMBs)
 	- 04-19-2021
 		- edits --> calcifyingpatternsMakingBloodPlateletsStrictMyHeartsIntent.mp4
 		- raw --> 04-19-2021-01.mp4
+
+## Patching & Performance
+No prior intent or forethought of shape and color, patching is a fluid process where you trust yourself to fail, continuing to learn your inward momentum and harnessing it. The instrument requires a sense of egoless collaboration, allowing it to lead the visualization of the journey and the user provides guidance for visual manifestation. Navigating the real-time input can provide directions of focus, or emotions, to recharge the manifestation process. There is an increased possibility of reaching an inner zone of intuition that lives inside this waypoint. The waypoint is the clairvoyant center of the emotion and, if timed correctly, the user can directly experience the emotions of another. When this happens, the intensity of the experience can disrupt an individual if they are not ready. It is all-encompassing, only understood at the moment.
+
+## Performance
+<iframe src="https://player.vimeo.com/video/199784510?h=a80a07fc0f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/199784510">2017-01-13 - Moon Villain - Joe Mygan</a> from <a href="https://vimeo.com/cskonopka">cskonopka</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
