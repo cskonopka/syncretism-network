@@ -2,7 +2,7 @@
 
 A perceptional fusion micro-network for learning about the subconscious.
 
-<img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/sn-motif.jpg"/> 
+<img height="70%" width="70%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/sn-motif.jpg"/> 
 
 ## motifs
 
