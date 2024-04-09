@@ -8,9 +8,20 @@ Mimesis is a framework for combining memories from a person and merging them wit
 
 ![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-chart.jpg?raw=true)
 
-Each genesis shader is a carefully crafted memory snapshot based on the human sensory system input that is used as source content. The human provides a content baseline, and the computer uses a variety of logic and sequential mechanisms to generate works in the artistic likeness. Computers act as a vehicle for content creation, but they also inject their own likeness based on how their operating system works at a kernel level. With the goal of ubiquity in mind, any new, upcycled or rescued computer can run the NFT content as long as it has a functioning GPU and can run OpenGL 3.0. Therefore, NFTs created in this collection can work with legacy and modern machines alike while being operating system agnostic.
- 
+#### Artist likeness > Captured memory > *genesis NFTs*
+Capture absorbed artistic likeness using a GLSL shader. The shader is the *genesis* memory used to seed new synthetic memories, *algoshards*.
+
+#### New GLSL Algorithm + Computer Likeness > Generative Engine > Export synthetic memories
+The new GLSL algorithm, or *genesis* memory, merges with the computer’s likeness using a series of Python programs that make up the *generative engine*. It is a seed value and an algorithmic framework for generating synthetic memories, *algoshards*.
+
+#### Render chain > algoshard	
+The custom render chain generates new synthetic memories using the D programming language and FFmpeg, exporting MP4 files. The open-source project used to create the render chain is no longer available on GitHub, cementing this as version 1. Each new memory is an *algoshard* and its parent model is the *genesis* memory.
+
+
 ### NFT Types
+
+Each genesis shader is a carefully crafted memory snapshot based on the human sensory system input that is used as source content. The human provides a content baseline, and the computer uses a variety of logic and sequential mechanisms to generate works in the artistic likeness. Computers act as a vehicle for content creation, but they also inject their own likeness based on how their operating system works at a kernel level. With the goal of ubiquity in mind, any new, upcycled or rescued computer can run the NFT content as long as it has a functioning GPU and can run OpenGL 3.0. Therefore, NFTs created in this collection can work with legacy and modern machines alike while being operating system agnostic.
+
 There is a total of 87 NFTs in Mimesis V1. There are two types of Mimesis NFTs:
 
 #### Genesis

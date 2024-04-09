@@ -1,6 +1,6 @@
 # videoPainting
 
-<img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-01.png"/>
+<img height="50%" width="50%" src="https://raw.githubusercontent.com/cskonopka/syncretism-network/main/assets/vp-01.png"/>
 
 ## Description 
 videoPainting is a creative technique that combines elements of traditional visual art, like painting or drawing, with the dynamic and time-based qualities of video. Through a synthesis of visual and temporal elements, one can create abstract compositions that tap into the universal and deeply personal aspects of the human emotional experience. Each design is an encapsulated moment of experience used to terraform new planes of understanding. 
