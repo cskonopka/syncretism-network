@@ -1,12 +1,11 @@
 ## Mimesis
-![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis.png?raw=true)
+<img height="60%" width="60%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis.png?raw=true"/>
 
 ### Description
 Mimesis is a framework for combining memories from a person and merging them with an upcycled computer to create a new set of synthetic memories. The upcycled computer, equipped with individualistic processing capabilities, absorbs and integrates the digitalized human memories into its existing databanks. This process combines elements of memory, emotion, and creativity, envisioning a unique and abstract way to record and visually experience personal memories through the lens of GLSL shaders.
 
 ### High-Level
-
-![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-chart.jpg?raw=true)
+<img height="60%" width="60%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-chart.jpg?raw=true"/>
 
 #### Artist likeness > Captured memory > *genesis NFTs*
 Capture absorbed artistic likeness using a GLSL shader. The shader is the *genesis* memory used to seed new synthetic memories, *algoshards*.
@@ -31,14 +30,13 @@ There is a total of 87 NFTs in Mimesis V1. There are two types of Mimesis NFTs:
 Genesis NFTs are manually captured memories as a GLSL shader. These shaders are the genesis for algorithmically generated synthetic memories or algoshards. (note: some of these shaders are animated)
 
 #### Algoshard
+<img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-algoshard.jpg?raw=true"/>
 
-![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-algoshard.jpg?raw=true)
 
 Algoshard NFTs are algorithmically generated synthetic memories or GLSL shaders. They are created in the likeness of the genesis GLSL shader and the likeness of the computer generating the content.
 
 ### Release Schedule
-
-![](https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-releases.png?raw=true)
+<img height="50%" width="50%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/holon-mimesis-releases.png?raw=true"/>
 
 The release schedule and pricing structure of Mimesis is based on the Fibonacci number system. Below is a fibonacci diagram displaying the set of numbers that are used to define the number of pieces within each series and their price. There is a total of 87 NFTs in Mimesis V1. 
 
@@ -120,5 +118,3 @@ Liable follows the same rules as Disclaimer of warranties, providing, by default
 
 ##### Revoke
 The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-## Playback
