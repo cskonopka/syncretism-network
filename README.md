@@ -1,5 +1,8 @@
 # syncretism-network
 
+A perceptional fusion micro-network for learning about the subconscious.
+
+
 | Sectors      | Example  | One-liner          | Description                                                  |
 | ------------ | -------- | ------- | ------------------------------------------------------------ |
 | cathodeSemiotics |  <img height="100%" width="100%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/vp-itsAllJustLight.gif"/>  |   Psychological osmosis research using video synthesis techniques.            | cathodeSemiotics is a creative technique that combines elements of traditional visual art, like painting or drawing, with the dynamic and time-based qualities of video. Through a synthesis of visual and temporal elements, one can create abstract compositions that tap into the universal and deeply personal aspects of the human emotional experience. Each design is an encapsulated moment of experience used to terraform new planes of understanding. | 
