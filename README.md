@@ -1,6 +1,6 @@
 # syncretism-network
 
-A perceptional fusion micro-network for learning about the subconscious.
+A perceptional fusion micro-network for studying the subconscious.
 
 <img height="60%" width="60%" src="https://github.com/cskonopka/syncretism-network/blob/main/assets/sn-motif.jpg"/> 
 
